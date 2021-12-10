@@ -6,3 +6,4 @@ Data Commited again
 Hello world
 Another big change
 Sometimes things just stay as it is
+Changes done for git
